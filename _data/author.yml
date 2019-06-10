@@ -1,0 +1,57 @@
+# Author settings
+name: Diego David Charrez Ticona
+title: 
+address: Arequipa, Peru
+email: dcharrezt@gmail.com
+github: dcharrezt
+gavatar: /assets/img/avatar.JPG
+workHistory:
+- work1:
+  company: Universidad Nacional de San Agustin
+  location: Arequipa, Peru
+  title: Sofware Developer
+  started: 2019
+  duration: (2019.01 - 2019.06)
+  description: Adding new features to current software.
+
+educationHistory:
+- education1:
+  organization: Universidad Nacional de San Agustin
+  degree: Bachelor
+  major: Computer Science
+  started: 2014
+  duration: (2014.03 - 2018.12)
+  description: Trained and participated in the ACM competitions.
+languages:
+- language1:
+  name: Spanish
+  proficiency: Native
+- language2:
+  name: English
+  proficiency: Advanced
+- language3:
+  name: Chinese
+  proficiency: Limit
+- language4:
+  name: Portuguese
+  proficiency: Limit
+programmingSkills:
+- Python:
+  name: Python
+  percentage: 90%
+- Bash:
+  name: Bash Shell
+  percentage: 90%
+- CPP:
+  name: C/C++
+  percentage: 80%
+- Java:
+  name: Java/Android
+  percentage: 80%
+- Kotlin:
+  name: Kotlin
+  percentage: 70%
+- PHP:
+  name: PHP
+  percentage: 50%
+
