@@ -4,6 +4,7 @@ title: Sources to get a github page with jekyll
 time: Monday, June 10, 2019
 location: Arequipa
 pulished: true
+comments: true
 excerpt_separator: "#"
 ---
 
