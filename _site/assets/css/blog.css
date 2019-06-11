@@ -219,9 +219,76 @@ div.authorimage {
 .footer-copyright {
     padding: 30px 0;
     text-align: center;
-    color: #f0f0f0;
     background-color: #575757;
     background-color: rgba(51, 123, 181, 0.6);
     font-family: "Open Sans Condensed", "Open Sans", "Helvetica Neue", Helvetica, Arial, "Nimbus L",sans-serif;
     margin-top: 40px;
+}
+
+
+/* Site footer */
+
+.site-footer {
+  border-top: 1px solid #e8e8e8;
+  padding: 18px 0;
+  background-color: rgba(51, 123, 181, 0.4);
+  height: 100px;
+  text-align: center;
+  color: black;
+}
+
+.footer-heading {
+  font-size: 18px;
+  font-weight: 300;
+  letter-spacing: -.5px;
+  margin-bottom: 15px;
+  color: black;
+}
+
+.site-footer .column { float: left; margin-bottom: 15px; color: green;}
+
+.footer-col-1 {
+  width: 270px; /*fallback*/
+  width: -webkit-calc(35% - 10px);
+  width: -moz-calc(35% - 10px);
+  width: -o-calc(35% - 10px);
+  width: calc(35% - 10px);
+  color: black;
+  margin-right: 10px
+}
+.footer-col-2 {
+  width: 175px; /*fallback*/
+  width: -webkit-calc(23.125% - 10px);
+  width: -moz-calc(23.125% - 10px);
+  width: -o-calc(23.125% - 10px);
+  width: calc(23.125% - 10px);
+  color: black;
+  margin-right: 10px
+}
+.footer-col-3 {
+  width: 335px; /*fallback*/
+  width: -webkit-calc(41.875%);
+  width: -moz-calc(41.875%);
+  width: -o-calc(41.875%);
+  color: black;
+  width: calc(41.875%);
+}
+
+.site-footer ul { list-style: none; color: white;}
+
+.site-footer li,
+.site-footer p {
+  font-size: 15px;
+  letter-spacing: -.3px;
+  color: black;
+}
+
+.github-icon-svg,
+.twitter-icon-svg {
+  display: inline-block;
+  width: 25px;
+  height: 25px;
+  position: relative;
+  top: 3px;
+  color: black;
 }
