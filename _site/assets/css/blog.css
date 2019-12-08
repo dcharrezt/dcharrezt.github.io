@@ -135,7 +135,7 @@ article.preview {
 }
 
 p.readmore {
-    color: #337ab7;
+    color: #0b4a81;
     margin-top: 1em;
     text-align: right;
 }
@@ -231,7 +231,7 @@ div.authorimage {
 .site-footer {
   border-top: 1px solid #e8e8e8;
   padding: 18px 0;
-  background-color: rgba(51, 123, 181, 0.4);
+  background-color: rgba(30, 69, 100, 0.4);
   height: 100px;
   text-align: center;
   color: black;
