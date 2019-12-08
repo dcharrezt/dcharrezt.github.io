@@ -4,6 +4,11 @@ title:
 address: Arequipa, Peru
 email: dcharrezt@gmail.com
 github: dcharrezt
+twitter: dcharrezt
+linkedin: dcharrezt
+medium: dcharrezt
+
+
 gavatar: /assets/img/avatar.JPG
 workHistory:
 - work1:
@@ -11,8 +16,8 @@ workHistory:
   location: Arequipa, Peru
   title: Sofware Developer
   started: 2019
-  duration: (2019.01 - 2019.06)
-  description: Adding new features to current software.
+  duration: (2019.01 - Present)
+  description: University Office of Computer Science and Systems.
 
 educationHistory:
 - education1:
@@ -21,7 +26,7 @@ educationHistory:
   major: Computer Science
   started: 2014
   duration: (2014.03 - 2018.12)
-  description: Trained and participated in the ACM competitions.
+  description: Trained and participated in the ACM competitions, Travel Award to SIGKDD 2018 London, UK.
 languages:
 - language1:
   name: Spanish
@@ -31,10 +36,10 @@ languages:
   proficiency: Advanced
 - language3:
   name: Chinese
-  proficiency: Limit
+  proficiency: Intermediate
 - language4:
   name: Portuguese
-  proficiency: Limit
+  proficiency: Intermediate
 programmingSkills:
 - Python:
   name: Python
@@ -44,7 +49,7 @@ programmingSkills:
   percentage: 90%
 - CPP:
   name: C/C++
-  percentage: 80%
+  percentage: 90%
 - Java:
   name: Java/Android
   percentage: 80%
@@ -53,5 +58,5 @@ programmingSkills:
   percentage: 70%
 - PHP:
   name: PHP
-  percentage: 50%
+  percentage: 90%
 
