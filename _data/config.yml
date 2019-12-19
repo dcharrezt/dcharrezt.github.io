@@ -1,7 +1,7 @@
 # Site settings
-title: 
+title: Diego Charrez blog
 email: dcharrezt@unsa.edu.pe
-description:
+description: 
 baseurl: ""
 url: "http://dcharrezt.github.io"
 twitter_username: dcharrezt

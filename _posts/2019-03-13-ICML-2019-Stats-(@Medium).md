@@ -24,7 +24,11 @@ This year there were [774 papers accepted](https://icml.cc/Conferences/2019/Sche
 
 * I was curious about what was the most popular number of authors per paper, as you can see only 17 papers had only 1 author, on the other hand, there is just one paper with 13 authors. The most popular number of authors per paper is between 2 and 4.
 
-<img src="/assets/img/2019_blogs/icml_n_authors_x_paper.png"/>
+<!-- <img src="/assets/img/2019_blogs/icml_n_authors_x_paper.png"/> -->
+
+
+![Self supervised by rotation prediction]({{ '/assets/img/2019_blogs/icml_n_authors_x_paper.png' | relative_url }})
+{: style="width: 100%;" class="center"}
 
 * Regarding top institution by papers accepted it was hard to match automatically institutions names so I did it manually it may not be perfect but it will give you a rough idea about the top 25 institutions with papers accepted for this ICML. I only counted at most one institutions per paper for example if a paper had five authors and all of them were from Google, this paper only counts as one paper to Google.
 
