@@ -1,26 +1,23 @@
 ---
-layout: blog_layout
+layout: default
 ---
 
-{% for post in site.posts %}
-<article class="preview">
-    <header>
-        <h2 class="post-title">
-            <a href="{{ post.url }}">  {{ post.title }} </a>
-        </h2>
-        <p class="post-time"> {{ post.time }}</p>
-    </header>
-    <section class="post-section">
-        <p>
-            {{ post.excerpt }}
-        </p>
-        <p class="readmore">
-            <a href="{{ post.url }}">
-                Read the full story.
-                <span class="glyphicon glyphicon-circle-arrow-right"></span>
-            </a>
-        </p>
-    </section>
+<div class="home">
 
-</article>
-{% endfor %}
+  <h1 class="page-heading">Posts</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>

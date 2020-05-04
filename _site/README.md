@@ -1,1 +1,0 @@
-# Diego D. Charrez Ticona
