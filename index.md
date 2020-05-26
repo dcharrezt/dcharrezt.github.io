@@ -7,7 +7,7 @@ layout: page
 <img style="float: right; width: 35%; padding: 5px;" src="https://avatars3.githubusercontent.com/u/8667636?s=400&v=4">
 My name is Diego Charrez, and I completed my undergraduate degree at the Universidad Nacional de San Agustin where I studied Computer Science. 
     
-I am interested in Robotics and Reinforcement learning.
+I enjoy learning about Robotics and Reinforcement learning.
 
 #### Updates
 
