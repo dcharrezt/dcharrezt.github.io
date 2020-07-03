@@ -15,9 +15,13 @@ I enjoy learning about Robotics and Reinforcement learning.
 <table>
 <col width="100px">
 <col width="650px">
-<!-- <tr><td><b>May 2020:</b></td><td> Proposal accepted for Google summer of code.</td></tr> -->
+
+<tr><td><b>Jul 2020:</b></td><td> Volunteered at ICML 2020 and LatinX workshop, got granted a free registration for the virtual conference.</td></tr>
+<tr><td><b>Jul 2020:</b></td><td> Accepted at the 2020 <a href="https://dlrlsummerschool.ca/" target="_blank">CIFAR Virtual Deep Learning + Reinforcement Learning Summer School.</a> </td></tr>
+<tr><td><b>May 2020:</b></td><td> Accepted for Google Summer of Code at Jderobot.</td></tr>
 <!-- <tr><td><b>Mar 2020:</b></td><td> Accepted my fall 2020 M.Sc. at Oregon State University.</td></tr> -->
-<tr><td><b>Apr 2020:</b></td><td> Volunteered at ICLR 2020 for the virtual conference.</td></tr>
+<tr><td><b>Apr 2020:</b></td><td> Volunteered at ICLR 2020, and got granted a free registration for the virtual conference.</td></tr>
+<tr><td><b>Mar 2020:</b></td><td> I have accepted my Fall 2020 MSc in computer science offer at Oregon State University EECS.</td></tr>
 <tr><td><b>Sep 2019:</b></td><td> Wrote a <a href="https://medium.com/@dcharrezt/neurips-2019-stats-c91346d31c8f" target="_blank">blog</a> about NeurIPS Stats at medium.</td></tr>
 <tr><td><b>Jun 2019:</b></td><td> Started collaborating with LatinX in AI as a remote research volunteer.</td></tr>
 <tr><td><b>Apr 2019:</b></td><td> Wrote a <a href="https://medium.com/@dcharrezt/icml-2019-stats-4ba18fbc6543" target="_blank">blog</a> about ICML Stats at medium.</td></tr>
