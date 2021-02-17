@@ -8,8 +8,8 @@
 # Site settings
 title: Diego Charrez 
 full_name: Diego Charrez
-email: dcharrezt@gmail.com
-email2: dcharrezt@unsa.edu.pe
+email: d.d.charrez.t@gmail.com
+# email2: dcharrezt@unsa.edu.pe
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dcharrezt.github.io" # the base hostname & protocol for your site
