@@ -5,9 +5,7 @@ layout: page
 
 <!-- <img style="float: right; width: 35%; padding: 5px;" src=" {{ site.url }}/assets/profile.jpg "> -->
 <img style="float: right; width: 35%; padding: 5px;" src="https://avatars3.githubusercontent.com/u/8667636?s=400&v=4">
-My name is Diego Charrez, and I completed my undergraduate degree at the Universidad Nacional de San Agustin where I studied Computer Science. I am currently pursuing a MSc in Computer Science at Oregon State University
-    
-I enjoy learning about Robotics and Reinforcement learning.
+My name is Diego Charrez, and I completed my undergraduate degree at the Universidad Nacional de San Agustin where I studied Computer Science. I am currently pursuing a MSc in Computer Science at Oregon State University.
 
 #### Updates
 
@@ -16,6 +14,8 @@ I enjoy learning about Robotics and Reinforcement learning.
 <col width="100px">
 <col width="650px">
 
+<tr><td><b>Jan 2020:</b></td><td> Began working as Graduate Research Assistant with Dr. Alan Fern.</td></tr>
+<tr><td><b>Jan 2020:</b></td><td> Started my MSc at Oregon State University.</td></tr>
 <tr><td><b>Dec 2020:</b></td><td> Volunteered at NeurIPS 2020 virtual conference.</td></tr>
 <tr><td><b>Sep 2020:</b></td><td> Completed successfully Google Summer of Code with Jderobot.</td></tr>
 <tr><td><b>Jul 2020:</b></td><td> Volunteered at ICML 2020 and LatinX workshop, got granted a free registration for the virtual conference.</td></tr>
