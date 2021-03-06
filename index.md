@@ -14,7 +14,7 @@ My name is Diego Charrez, and I completed my undergraduate degree at the Univers
 <col width="100px">
 <col width="650px">
 
-<tr><td><b>Jan 2020:</b></td><td> Began working as Graduate Research Assistant with Dr. Alan Fern.</td></tr>
+<tr><td><b>Jan 2020:</b></td><td> Began working as Graduate Research Assistant in agent interaction for common sense reasoning.</td></tr>
 <tr><td><b>Jan 2020:</b></td><td> Started my MSc at Oregon State University.</td></tr>
 <tr><td><b>Dec 2020:</b></td><td> Volunteered at NeurIPS 2020 virtual conference.</td></tr>
 <tr><td><b>Sep 2020:</b></td><td> Completed successfully Google Summer of Code with Jderobot.</td></tr>
